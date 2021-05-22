@@ -1,6 +1,6 @@
 # Nettverk og Sikkerhets Community dag Q2-2021
 
-![MP1](/xfiles/agenda21q2.jpg "MP1")
+![MP1](/cnsdq221/xfiles/agenda21q2.jpg "MP1")
 
 ## Tidligere Community Days;
 
