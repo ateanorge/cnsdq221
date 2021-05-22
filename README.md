@@ -2,7 +2,7 @@
 
 ![MP1](xfiles/agenda21q2.png "MP1")
 
-## Tidligere Community Days;
+## Tidligere Community dager;
 
-[Community Day Q1 - 2021](https://github.com/ateanorge/cnsdq121)  
+[Community dag Q1 - 2021](https://github.com/ateanorge/cnsdq121)  
 * Linker til opptak fra Community Day Q1 ligger også her
