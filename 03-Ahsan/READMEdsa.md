@@ -1,3 +1,0 @@
-# Notes
-
-* Why no ZTP ?
